@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 # Replace XXXXXX with your personal access token.
 # After @ you must specify a branch.
 
-PACKAGE_URL = 'git+https://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@github.com/ram-meena-ibm/maximofunctions@starter_package'
+PACKAGE_URL = 'git+https://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@github.com/ram-meena-ibm/maximofunctions@starter_package'
 
 class MultiplyByFactorrk(BaseTransformer):
 
